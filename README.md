@@ -79,7 +79,7 @@ Real-time data aggregation and currency conversion microservice.
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imtiaz-atik001&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://imtiaz-atik001.vercel.app/api?username=imtiaz-atik001&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -87,13 +87,12 @@ Real-time data aggregation and currency conversion microservice.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaz-atik001&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://imtiaz-atik001.vercel.app/api/top-langs/?username=imtiaz-atik001&layout=compact&count_private=true&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imtiaz-atik001&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
 
 ---
 
