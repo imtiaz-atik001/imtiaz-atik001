@@ -83,11 +83,7 @@ Real-time data aggregation and currency conversion microservice.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-five.vercel.app?user=imtiaz-atik001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-private-stats-xi.vercel.app/api/custom-card?username=imtiaz-atik001" alt="Imtiaz Atik's GitHub Stats" />
+  <img src="https://github-private-stats-xi.vercel.app/api/custom-card?username=imtiaz-atik001" alt="Imtiaz Atik's GitHub Full Stats" />
 </p>
 
 <p align="center">
@@ -98,6 +94,9 @@ Real-time data aggregation and currency conversion microservice.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imtiaz-atik001&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-private-stats-xi.vercel.app/api/activity-graph?username=imtiaz-atik001" alt="Imtiaz Atik’s Contribution Graph"/>
+</p>
 
 ---
 
