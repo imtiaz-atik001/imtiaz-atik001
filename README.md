@@ -12,8 +12,8 @@
 ### 👨‍💻 About Me
 
 - 💡 Passionate about **building reliable backend architectures** and **automating deployments**  
-- 🔭 Currently working on projects under **DreamEmirates (BitnixAI)**  
-- 🌱 Learning advanced **Kubernetes, AWS scaling & distributed caching**  
+- 🔭 Currently working on projects under **DreamEmirates (TaghyeerAI)**  
+- 🌱 Learning advanced **AWS scaling & distributed caching**  
 - ⚙️ Experienced with **Microservice Architecture, CI/CD pipelines, and event-driven systems**  
 - 💬 Ask me about **NestJS, Express, TypeScript, Docker, Redis, Kafka, and AWS**  
 - 📍 Based in **Dhaka, Bangladesh**
