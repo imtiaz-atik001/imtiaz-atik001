@@ -79,13 +79,18 @@ Real-time data aggregation and currency conversion microservice.
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imtiaz-atik001&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiaz-atik001&theme=radical" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imtiaz-atik001&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiaz-atik001&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaz-atik001&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaz-atik001&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imtiaz-atik001&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
 
 ---
 
