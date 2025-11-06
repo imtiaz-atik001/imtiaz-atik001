@@ -80,7 +80,10 @@ Real-time data aggregation and currency conversion microservice.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imtiaz-atik001&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiaz-atik001&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-five.vercel.app?user=imtiaz-atik001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
