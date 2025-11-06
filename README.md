@@ -94,9 +94,9 @@ Real-time data aggregation and currency conversion microservice.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imtiaz-atik001&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-private-stats-xi.vercel.app/api/activity-graph?username=imtiaz-atik001" alt="Imtiaz Atik’s Contribution Graph"/>
-</p>
+</p> -->
 
 ---
 
