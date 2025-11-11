@@ -4,7 +4,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Backend+Developer;DevOps+Engineer;Building+Microservices+%26+Cloud+Systems;Always+learning+new+technologies!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Backend+Developer;Building+Microservices+%26+Cloud+Systems;Always+learning+new+technologies!" alt="Typing Animation" />
 </p>
 
 ---
