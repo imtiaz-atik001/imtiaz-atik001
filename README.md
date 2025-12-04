@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/imtiaz-atik001/imtiaz-atik001/blob/f35be9c5b67476e001d4a2e1a5812783a1c9d2f9/banner%20(1).png" alt="Imtiaz Atik Banner"/>
+  <img src="https://github.com/imtiaz-atik001/imtiaz-atik001/blob/02d4e67c13daba301598097432b2bdb0cd86af5c/new-banner.png" alt="Imtiaz Atik Banner"/>
 </p>
 
 <h1 align="center">👋 Hey there, I'm Imtiaz Atik</h1>
